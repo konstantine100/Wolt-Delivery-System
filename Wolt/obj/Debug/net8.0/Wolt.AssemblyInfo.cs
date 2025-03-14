@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Wolt")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+30b3edbecab06ac903b9a51956c795a596c9fc74")]
 [assembly: System.Reflection.AssemblyProductAttribute("Wolt")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Wolt")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
