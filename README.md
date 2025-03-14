@@ -1,3 +1,10 @@
+<!-- Metadata for LinkedIn and Social Sharing -->
+**Project Name:** Wolt Delivery System  
+**Project Link:** [Wolt Delivery System](https://github.com/konstantine100/Wolt-Delivery-System)  
+**Description:** A comprehensive food and product delivery platform built with Entity Framework, offering dynamic pricing based on distance and weather conditions.  
+
+---
+
 # Wolt Delivery System
 
 A comprehensive food and product delivery platform built with Entity Framework. This system connects customers with restaurants and stores, providing a seamless delivery experience with smart routing and dynamic pricing based on distance and weather conditions.
@@ -61,11 +68,3 @@ A comprehensive food and product delivery platform built with Entity Framework. 
    - Processes the payment using the customer's virtual balance
    - Generates a detailed receipt using DocX
    - Sends confirmation email with order details to the customer
-
-## Installation
-
-[Include installation instructions here]
-
-## Configuration
-
-[Include configuration instructions here]
